@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1541033718 source:c:\users\james\desktop\jfarnsworth_assignment 10 extra credit functions.cpp
+	<iostream>
+	<math.h>
+
+1541221140 source:c:\users\james\desktop\1st c++ progam\first and last project\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1544418163 source:c:\users\james\desktop\folders&everything\1st c++ progam\first and last project\hangman project.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1547536081 source:c:\users\james\desktop\folders&everything\c++ programs and projects\first and last project\functions program.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
